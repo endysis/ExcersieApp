@@ -37,7 +37,7 @@ public interface MealI {
 	public string getMealName();
 	public void setCalories(double c);
 	public void getCalories();
-	public void setMealDescription(); // User Adding Meal Description Cycle 2
+	public void setMealDescription(); // User Adding Meal Description Cycle 3
 	public string getMealDescription();
 }
 
@@ -75,7 +75,7 @@ public interface ActivityI(){
 public interface CalorieCounterI {
 	public double getTotal();
 	public void setTotal();
-	public void setFood(); // User Adding FoodInput Cycle1
+	public void setFood(); // User Adding FoodInput Cycle2
 }
 
 
