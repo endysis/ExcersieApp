@@ -37,7 +37,7 @@ public interface MealI {
 	public string getMealName();
 	public void setCalories(double c);
 	public void getCalories();
-	// User Adding Meal Description Cycle 1
+	// User Adding Meal Description Cycle 2
 }
 
 public interface MeasurementsI{
