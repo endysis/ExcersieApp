@@ -74,7 +74,7 @@ public interface ActivityI(){
 public interface CalorieCounterI {
 	public double getTotal();
 	public void setTotal();
-	// User Adding FoodInput Cycle1
+	public void setFood(); // User Adding FoodInput Cycle1
 }
 
 
